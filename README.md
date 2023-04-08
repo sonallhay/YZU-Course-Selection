@@ -29,6 +29,8 @@
 * **Geckodriver (Firefox)**  
   * **Same as Chromedriver if you're using Firefox.**  
   * **Update link : https://github.com/mozilla/geckodriver/releases**  
+![alt text](http://url/to/img.png)
+
 
 # How to use 
 
