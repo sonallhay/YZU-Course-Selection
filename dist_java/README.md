@@ -26,18 +26,26 @@ dist_java/
  │&emsp;├── WebDriver/  
  │&emsp;│   
  │&emsp;│     
- │&emsp;├── <font color="#f00">lib/</font>  
+ │&emsp;├── **lib/**  
  │&emsp;│&emsp;&ensp;&nbsp;├── tensorflow-1.14.0.jar  
  │&emsp;│&emsp;&ensp;&nbsp;├── selenium-api-4.8.3.jar  
  │&emsp;│&emsp;&ensp;&nbsp;├── opencv-347.jar  
  │&emsp;│&emsp;&ensp;&nbsp;└── ...  
- │&emsp;└── <font color="#f00">jre1.8.0_181/</font>    
+ │&emsp;└── **jre1.8.0_181/**  
  │&emsp;&emsp;&ensp;&ensp;&nbsp;├── bin/  
  │&emsp;&emsp;&ensp;&ensp;&nbsp;├── lib/  
  │&emsp;&emsp;&ensp;&ensp;&nbsp;├── COPYRIGHT  
  │&emsp;&emsp;&ensp;&ensp;&nbsp;└── ...  
  
- AutoChooseCourse\src\autochoosecourse
+ AutoChooseCourse/
+ │&emsp;│   
+ │&emsp;├── src/  
+ │&emsp;│   
+ │&emsp;│   
+ │&emsp;├── autochoosecourse/  
+ │&emsp;│&emsp;&ensp;&nbsp;│&emsp;├──  
+ │&emsp;│&emsp;&ensp;&nbsp;│&emsp;├──  
+ │&emsp;│&emsp;&ensp;&nbsp;│&emsp;└──  **lib/**  
  
  ## **2.Setup/Build source code**  
 **** 
