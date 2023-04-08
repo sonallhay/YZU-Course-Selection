@@ -1,3 +1,10 @@
+# YZU Course Selection Script  
+* **Automation Sign up for courses/Periodic Inspection Vacancy of Courses**  
+* **Real-Time Information**  
+* **Secure Course Selection**  
+* **Human Behavior Simulation (not attack or crack from server backend)**  
+* **Fast Cracking of Verification Code**  
+
 # JRE Version Requirement
 
 * **Java Runtime Environment >= 1.8.0**
