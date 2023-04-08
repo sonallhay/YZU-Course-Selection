@@ -21,15 +21,15 @@ https://drive.google.com/drive/folders/1LoHw8VCSPx-OyNA7xzsKzuJmHZHk_A3u?usp=sha
 
 dist_java/  
  │   │     
- │   ├── WebDriver/  
+ │   ├── WebDriver/
  │   │   
  │   │     
- │   ├── lib/  
+ │   ├── lib/
  │   │   ├── tensorflow-1.14.0.jar  
  │   │   ├── selenium-api-4.8.3.jar  
  │   │   ├── opencv-347.jar  
  │   │   └── ...  
- │   └── jre1.8.0_181/  
+ │   └── jre1.8.0_181/
  │       ├── bin/  
  │       ├── lib/  
  │       ├── COPYRIGHT  
