@@ -23,8 +23,12 @@
 
 # WebDriver Compatible
 
-* **Chromedriver (chrome)**
-* **Geckodriver (Firefox)**
+* **Chromedriver (chrome)**  
+* * **Need compatible with your chrome browser version.(replace the old one with the latest chromedriver)**  
+* * **Update link : https://chromedriver.chromium.org/downloads**  
+* **Geckodriver (Firefox)**  
+* * **Same as Chromedriver if you're using Firefox.**  
+* * **Update link : https://chromedriver.chromium.org/downloads**  
 
 # How to use 
 
