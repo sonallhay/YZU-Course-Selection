@@ -38,7 +38,7 @@ dist_java/
  │&emsp;&emsp;&ensp;&ensp;&emsp;&emsp;&emsp;└── ...  
  
  AutoChooseCourse/src/autochoosecourse  
- │&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;├──  
+ │&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;│  
  │&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;└──  **lib/**  
  │&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;├── tensorflow-1.14.0.jar  
  │&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;├── selenium-api-4.8.3.jar  
