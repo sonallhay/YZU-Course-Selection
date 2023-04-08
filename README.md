@@ -25,12 +25,12 @@
 
 * **Chromedriver (chrome)**  
   * **Need compatible with your chrome browser version.(replace the old one with the latest chromedriver)**  
-  * **Update link : https://chromedriver.chromium.org/downloads**  
+  * **Update link : https://chromedriver.chromium.org/home**  
 * **Geckodriver (Firefox)**  
   * **Same as Chromedriver if you're using Firefox.**  
   * **Update link : https://github.com/mozilla/geckodriver/releases**  
 ![alt text](https://github.com/sonallhay/YZU-Course-Selection/blob/main/chrome-version112.png)
-![alt text](https://github.com/sonallhay/YZU-Course-Selection/blob/main/chromedriver-version.png)
+![alt text](https://github.com/sonallhay/YZU-Course-Selection/blob/main/chromedriver-version112.png)
 
 
 # How to use 
