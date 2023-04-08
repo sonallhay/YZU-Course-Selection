@@ -29,7 +29,8 @@
 * **Geckodriver (Firefox)**  
   * **Same as Chromedriver if you're using Firefox.**  
   * **Update link : https://github.com/mozilla/geckodriver/releases**  
-![alt text](https://github.com/sonallhay/YZU-Course-Selection/blob/main/chrome-version.png)
+![alt text](https://github.com/sonallhay/YZU-Course-Selection/blob/main/chrome-version112.png)
+![alt text](https://github.com/sonallhay/YZU-Course-Selection/blob/main/chromedriver-version.png)
 
 
 # How to use 
