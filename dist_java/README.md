@@ -49,9 +49,9 @@ dist_java/
  │&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;└── ...  
  
  ## **2. Build/Run Source Code**  
-`
+
 * **Build java code with Netbeans IDE**  
   * **Prerequisite:Java SE Development Kit 8**  
   * **Packup .jar to .exe (Launch4j)**  
 * **Precompiled-code of exe file download from the above link, drag into 'dist_java/'**  
-`
+
