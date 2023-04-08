@@ -28,7 +28,7 @@
   * **Update link : https://chromedriver.chromium.org/downloads**  
 * **Geckodriver (Firefox)**  
   * **Same as Chromedriver if you're using Firefox.**  
-  * **Update link : https://chromedriver.chromium.org/downloads**  
+  * **Update link : https://github.com/mozilla/geckodriver/releases**  
 
 # How to use 
 
