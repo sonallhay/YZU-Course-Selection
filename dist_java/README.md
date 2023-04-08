@@ -22,10 +22,10 @@ https://drive.google.com/drive/folders/1LoHw8VCSPx-OyNA7xzsKzuJmHZHk_A3u?usp=sha
 **check document arrangement**  
 
 dist_java/  
- │&emsp;│     
+ │&emsp;│  
  │&emsp;├── WebDriver/  
- │&emsp;│   
- │&emsp;│     
+ │&emsp;│  
+ │&emsp;│  
  │&emsp;├── **lib/**  
  │&emsp;│&emsp;&ensp;&nbsp;├── tensorflow-1.14.0.jar  
  │&emsp;│&emsp;&ensp;&nbsp;├── selenium-api-4.8.3.jar  
@@ -37,15 +37,9 @@ dist_java/
  │&emsp;&emsp;&ensp;&ensp;&nbsp;├── COPYRIGHT  
  │&emsp;&emsp;&ensp;&ensp;&nbsp;└── ...  
  
- AutoChooseCourse/
- │&emsp;│   
- │&emsp;├── src/  
- │&emsp;│   
- │&emsp;│   
- │&emsp;├── autochoosecourse/  
- │&emsp;│&emsp;&ensp;&nbsp;│&emsp;├──  
- │&emsp;│&emsp;&ensp;&nbsp;│&emsp;├──  
- │&emsp;│&emsp;&ensp;&nbsp;│&emsp;└──  **lib/**  
+ AutoChooseCourse/src/autochoosecourse
+ │&emsp;&emsp;&emsp;├──  
+ │&emsp;&emsp;&emsp;└──  **lib/**  
  
  ## **2.Setup/Build source code**  
 **** 
