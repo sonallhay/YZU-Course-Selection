@@ -15,11 +15,12 @@
 
 # How to use 
 
-## **1.Setup Requirements and library **  
-**download and extract lib.zip in 'lib' & jre1.8.0_181.zip in 'bin' from the link:** 
+## **1.Setup Requirements and library**  
+**download and extract lib.zip in 'lib' & jre1.8.0_181.zip in 'bin' from the link:**  
 https://drive.google.com/drive/folders/1LoHw8VCSPx-OyNA7xzsKzuJmHZHk_A3u?usp=share_link
 
-**check document arrangement**   
+**check document arrangement**  
+
 dist_java/  
  │&emsp;│     
  │&emsp;├── WebDriver/  
@@ -38,5 +39,5 @@ dist_java/
  
  AutoChooseCourse\src\autochoosecourse
  
- ## **2.Setup/Build source code **  
+ ## **2.Setup/Build source code**  
 **** 
