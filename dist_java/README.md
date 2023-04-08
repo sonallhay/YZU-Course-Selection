@@ -30,8 +30,8 @@ dist_java/
  │&emsp;│&emsp;&ensp;├── opencv-347.jar  
  │&emsp;│&emsp;&ensp;└── ...  
  │&emsp;└── jre1.8.0_181/  
- │&emsp;&emsp;&ensp;├── bin/  
- │&emsp;&emsp;&ensp;├──lib/  
- │&emsp;&emsp;&ensp;├──COPYRIGHT  
- │&emsp;&emsp;&ensp;└── ...  
+ │&emsp;&emsp;&ensp;&ensp;├── bin/  
+ │&emsp;&emsp;&ensp;&ensp;├──lib/  
+ │&emsp;&emsp;&ensp;&ensp;├──COPYRIGHT  
+ │&emsp;&emsp;&ensp;&ensp;└── ...  
  
