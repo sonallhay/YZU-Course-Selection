@@ -1,5 +1,5 @@
 # YZU Course Selection Script  
-✔️**.jar** ✔️**.exe**   
+✔️ **.jar** ✔️ **.exe**   
 * **Automation Sign up for Courses/Periodic Inspection Vacancy of Courses**  
 * **Real-Time Information**  
 * **Secure Course Selection**  
