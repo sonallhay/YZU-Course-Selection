@@ -4,7 +4,7 @@
 * **Secure Course Selection**  
 * **Human Behavior Simulation (not attack or crack from server backend)**  
 * **Fast Cracking of Verification Code**  
-* **EXE File Direct Execution, or Cross-Platform Software (JVM)**  
+* **Direct EXE File Execution, or Cross-Platform Software (JVM)**  
 
 # Disclaimer
 * **Using YZU Course Selection Script is at your own risk.**  
