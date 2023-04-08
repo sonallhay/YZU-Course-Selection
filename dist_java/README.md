@@ -37,7 +37,7 @@ dist_java/
  │&emsp;&emsp;&ensp;&ensp;&nbsp;├── COPYRIGHT  
  │&emsp;&emsp;&ensp;&ensp;&nbsp;└── ...  
  
- AutoChooseCourse/src/autochoosecourse
+ AutoChooseCourse/src/autochoosecourse  
  │&emsp;&emsp;&emsp;├──  
  │&emsp;&emsp;&emsp;└──  **lib/**  
  
