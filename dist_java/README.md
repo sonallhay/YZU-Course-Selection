@@ -1,9 +1,10 @@
 # YZU Course Selection Script  
-* **Automation Sign up for courses/Periodic Inspection Vacancy of Courses**  
+* **Automation Sign up for Courses/Periodic Inspection Vacancy of Courses**  
 * **Real-Time Information**  
 * **Secure Course Selection**  
 * **Human Behavior Simulation (not attack or crack from server backend)**  
 * **Fast Cracking of Verification Code**  
+* **EXE File Direct Execution, or Cross-Platform Software (JVM)**  
 
 # JRE Version Requirement
 
