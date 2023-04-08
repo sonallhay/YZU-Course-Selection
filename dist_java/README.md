@@ -32,10 +32,10 @@ dist_java/
  │&emsp;│&emsp;&ensp;&nbsp;├── opencv-347.jar  
  │&emsp;│&emsp;&ensp;&nbsp;└── ...  
  │&emsp;└── **jre1.8.0_181/**  
- │&emsp;&emsp;&ensp;&ensp;&nbsp;├── bin/  
- │&emsp;&emsp;&ensp;&ensp;&nbsp;├── lib/  
- │&emsp;&emsp;&ensp;&ensp;&nbsp;├── COPYRIGHT  
- │&emsp;&emsp;&ensp;&ensp;&nbsp;└── ...  
+ │&emsp;&emsp;&ensp;&ensp;&nbsp;&emsp;&emsp;&emsp;&emsp├── bin/  
+ │&emsp;&emsp;&ensp;&ensp;&nbsp;&emsp;&emsp;&emsp;&emsp├── lib/  
+ │&emsp;&emsp;&ensp;&ensp;&nbsp;&emsp;&emsp;&emsp;&emsp├── COPYRIGHT  
+ │&emsp;&emsp;&ensp;&ensp;&nbsp;&emsp;&emsp;&emsp;&emsp└── ...  
  
  AutoChooseCourse/src/autochoosecourse  
  │&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;├──  
