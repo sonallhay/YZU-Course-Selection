@@ -40,6 +40,11 @@ dist_java/
  AutoChooseCourse/src/autochoosecourse  
  │&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;├──  
  │&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;└──  **lib/**  
+ │&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;│&emsp;&ensp;&nbsp;├── tensorflow-1.14.0.jar  
+ │&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;│&emsp;&ensp;&nbsp;├── selenium-api-4.8.3.jar  
+ │&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;│&emsp;&ensp;&nbsp;├── opencv-347.jar  
+ │&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;│&emsp;&ensp;&nbsp;└── ...  
+ 
  
  ## **2.Setup/Build source code**  
 **** 
