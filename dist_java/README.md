@@ -38,8 +38,8 @@ dist_java/
  │&emsp;&emsp;&ensp;&ensp;&nbsp;└── ...  
  
  AutoChooseCourse/src/autochoosecourse  
- │&emsp;&emsp;&emsp;├──  
- │&emsp;&emsp;&emsp;└──  **lib/**  
+ │&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;├──  
+ │&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;└──  **lib/**  
  
  ## **2.Setup/Build source code**  
 **** 
