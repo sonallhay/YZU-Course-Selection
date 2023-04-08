@@ -15,6 +15,9 @@
 
 # How to use 
 
+* AutoChooseCourse : Source code project  
+* dist_java : Release version
+
 ## **1.Setup Requirements and library**  
 **download and extract lib.zip in 'lib' & jre1.8.0_181.zip in 'bin' from the link:**  
 https://drive.google.com/drive/folders/1LoHw8VCSPx-OyNA7xzsKzuJmHZHk_A3u?usp=share_link
@@ -45,6 +48,8 @@ dist_java/
  │&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;├── opencv-347.jar  
  │&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;└── ...  
  
- 
- ## **2.Setup/Build source code**  
-**** 
+ ## **2.Build/Run Source Code**  
+* ### **Build java code with Netbeans IDE**  
+* **Prerequisite:Java SE Development Kit 8**
+
+* ### **Precompiled-code of exe file download from the above link, drag into 'dist_java/'**  
