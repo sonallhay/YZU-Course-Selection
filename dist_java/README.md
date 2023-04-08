@@ -1,6 +1,6 @@
 # Jre version Requirement
 
-**Java Runtime Environment >= 1.8.0**
+* **Java Runtime Environment >= 1.8.0**
 
 # Library Requirements
 
