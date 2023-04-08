@@ -6,6 +6,11 @@
 * **Fast Cracking of Verification Code**  
 * **EXE File Direct Execution, or Cross-Platform Software (JVM)**  
 
+# Disclaimer
+* **Using YZU Course Selection Script is at your own risk.**  
+* **Any behavior leads to commercial/academic/moral issues User takes full responsibility.**  
+* **This project is only for academic research use only.**  
+
 # JRE Version Requirement
 
 * **Java Runtime Environment >= 1.8.0**
@@ -59,7 +64,7 @@ dist_java/
  ## **2. Build/Run Source Code**  
 
 * **Build java code with Netbeans IDE**  
-  * **Prerequisite:Java SE Development Kit 8**  
+  * **Prerequisite : Java SE Development Kit 8**  
   * **Packup .jar to .exe (Launch4j)**  
 * **Precompiled-code of exe file download from the above link, drag into 'dist_java/'**  
 
