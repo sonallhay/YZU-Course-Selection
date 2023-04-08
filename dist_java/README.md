@@ -1,10 +1,10 @@
-# YZU Course Selection Script  
+# YZU Course Selection Script ✔️ **.jar** ✔️ **.exe**   
 * **Automation Sign up for Courses/Periodic Inspection Vacancy of Courses**  
 * **Real-Time Information**  
 * **Secure Course Selection**  
 * **Human Behavior Simulation (not attack or crack from server backend)**  
 * **Fast Cracking of Verification Code**  
-* **EXE File Direct Execution, or Cross-Platform Software (JVM)**  
+* **Direct EXE File Execution, or Cross-Platform Software (JVM)**  
 
 # Disclaimer
 * **Using YZU Course Selection Script is at your own risk.**  
@@ -23,8 +23,14 @@
 
 # WebDriver Compatible
 
-* **Chromedriver (chrome)**
-* **Geckodriver (Firefox)**
+* **Chromedriver (chrome)**  
+  * **Need compatible with your chrome browser version.(replace the old one with the latest chromedriver)**  
+  * **Update link : https://chromedriver.chromium.org/home**  
+![alt text](https://github.com/sonallhay/YZU-Course-Selection/blob/main/chrome-version112.png)
+* **Geckodriver (Firefox)**  
+  * **Same as Chromedriver if you're using Firefox.**  
+  * **Update link : https://github.com/mozilla/geckodriver/releases**  
+
 
 # How to use 
 
@@ -67,4 +73,3 @@ dist_java/
   * **Prerequisite : Java SE Development Kit 8**  
   * **Packup .jar to .exe (Launch4j)**  
 * **Precompiled-code of exe file download from the above link, drag into 'dist_java/'**  
-
