@@ -4,8 +4,33 @@ Java Runtime Environment >= 1.8.0
 
 # Library Requirements
 
+* Java Selenium 4
+* Tensorflow 1.14
+* Opencv 3.4.7
+
+# Browser driver Compatible
+
+* Chromedriver (chrome)
+* Geckodriver (Firefox)
 
 # How to use 
 
-download and extract lib.zip & jre1.8.0_181.zip from the link:
+1.download and extract lib.zip in 'lib' & jre1.8.0_181.zip in 'bin' from the link:
 https://drive.google.com/drive/folders/1LoHw8VCSPx-OyNA7xzsKzuJmHZHk_A3u?usp=share_link
+
+
+dist_java/
+ │   │   
+ │   ├── WebDriver/
+ │   │   
+ │   │     
+ │   ├── lib/
+ │   │   ├── tensorflow-1.14.0.jar
+ │   │   ├── selenium-api-4.8.3.jar
+ │   │   ├── opencv-347.jar
+ │   │   └── ...
+ │   └── jre1.8.0_181/
+ │       ├── bin/
+ │       ├── lib/
+ │       ├── COPYRIGHT
+ │       └── ...
